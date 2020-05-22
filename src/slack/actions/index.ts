@@ -7,7 +7,7 @@ import unsubscribe from './unsubscribe';
 import supportRequest from './supportRequest';
 
 export default function register(app: App): void {
-  logger.info('Registering actionN listeners');
+  logger.info('Registering action listeners');
   registerTeam(app);
   ignore(app);
   subscribe(app);
