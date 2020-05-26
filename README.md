@@ -25,7 +25,7 @@ Before you can use Hangar, you'll need to create a Slack app. Follow our [instru
 ## Deploying Hangar to Heroku
 Once your Slack app is up and running, click the button below and complete the form using your Slack secrets.
 
-[![Deploy to Heroky](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Paratrooper5065/Hangar/tree/Anwesh-refactor-next)
+[![Deploy to Heroky](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Paratrooper5065/Hangar/tree/Anwesh-refactor-next-fix)
 
 ## Completing Your Configuration
 Once your app is running, copy your app's URL and complete the [final configuration of your Slack app](./src/slack/README.md#after-deploying-hangar).
